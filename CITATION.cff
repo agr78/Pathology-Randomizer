@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use PathoDraw, please cite the paper below."
+title: "PathoDraw: Pathology Randomization for Synthetic Priors and Zero-Shot Detection"
+type: software
+repository-code: "https://github.com/agr78/Pathology-Randomizer"
+authors:
+  - family-names: Roberts
+    given-names: Alexandra G.
+  - family-names: Hossain
+    given-names: Tonmoy
+  - family-names: Olchanyi
+    given-names: Mark
+  - family-names: Brandstätter
+    given-names: Stefan
+  - family-names: Williams Ramirez
+    given-names: Jonathan
+  - family-names: Lawry Aguila
+    given-names: Ana
+  - family-names: Rosen
+    given-names: Matthew
+  - family-names: Sorby-Adams
+    given-names: Annabel
+  - family-names: Kimberly
+    given-names: W. Taylor
+  - family-names: Iglesias
+    given-names: Juan Eugenio
+preferred-citation:
+  type: article
+  title: "Pathology Randomization for Synthetic Priors and Zero-Shot Detection"
+  journal: "arXiv preprint arXiv:2611.21975"
+  url: "https://arxiv.org/abs/2611.21975"
+  year: 2026
+  authors:
+    - family-names: Roberts
+      given-names: Alexandra G.
+    - family-names: Hossain
+      given-names: Tonmoy
+    - family-names: Olchanyi
+      given-names: Mark
+    - family-names: Brandstätter
+      given-names: Stefan
+    - family-names: Williams Ramirez
+      given-names: Jonathan
+    - family-names: Lawry Aguila
+      given-names: Ana
+    - family-names: Rosen
+      given-names: Matthew
+    - family-names: Sorby-Adams
+      given-names: Annabel
+    - family-names: Kimberly
+      given-names: W. Taylor
+    - family-names: Iglesias
+      given-names: Juan Eugenio
